@@ -1,0 +1,261 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+   	font-family: 'Open Sans',sans-serif;
+  	font-size: 14px;
+  	line-height: 20px;
+}
+.p{
+	margin: 0px;
+	padding: 0px;
+}
+.h2 {
+  	font-size: 52px;
+  	color: rgb(0,188,231) ;
+ 	margin: 45px 0px 50px;
+ 	font-weight: 100;
+ 	text-shadow: 0px 0px 30px rgba(255,255,255,1);
+}
+.title {
+  	font-size: 25px;
+  	color: #666;
+  	font-weight: 50;
+  	text-shadow: 0px 0px 30px rgba(255,255,255,1);
+}
+.brand{
+	color: white;
+}
+.{
+	line-height: 100%;
+}
+.hr{
+	background: rgb(241,241,241);
+	padding: 0.5px 10px 0.5px 10px;
+	opacity: 0.7;
+}
+.hr-footer{
+	background: rgb(0,169,37);
+	padding: 0.5px 0px 0.5px 0px;
+	opacity: 0.7;
+}
+.margin{
+	margin: 0;
+}
+.padding{
+	padding: 0;
+}
+.img{
+	width: 100%;
+	height: 100%;
+}
+.border-radius{
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+.text-align-center{
+	text-align: center;
+}
+.h4{
+	margin: 0;
+}
+.color-white{
+	color: white;
+}
+.title-bg{
+	padding:10px 5px 5px 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background: rgb(57,59,62);
+}
+.item-div-bg{
+	margin-bottom:10px; 
+	overflow: auto;
+	padding: 10px;
+	background: rgb(242,243,244);
+}
+.a-black{
+	color: black;
+}
+.a-hover:hover{
+	background: rgb(16,43,99);
+}
+.margin-bottom-5px{
+	margin-bottom: 5px;
+}
+.margin-bottom-10px{
+	margin-bottom: 10px;
+}
+.margin-left-5px{
+	margin-left: 5px;
+}
+.margin-left-10px{
+	margin-left: 10px;
+}
+.margin-top-5px{
+	margin-top: 5px;
+}
+.margin-top-10px{
+	margin-top: 10px;
+}
+.margin-top-30px{
+	margin-top: 30px;
+}
+.margin-right-5px{
+	margin-right: 5px;
+}
+.margin-right-10px{
+	margin-right: 10px;
+}
+.padding-top-10px{
+	padding-top: 10px;
+}
+.padding-top-20px{
+	padding-top: 20px;
+}
+.by{
+	color: rgb(104,104,104);
+}
+.overflow-auto{
+	overflow: auto;
+}
+.border{
+	margin-bottom: 20px;
+    padding: 10px;
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 0 2px rgba(0, 0, 0, 0.1) inset;
+    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 0 2px rgba(0, 0, 0, 0.1) inset;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 0 2px rgba(0, 0, 0, 0.1) inset;
+}
+.border-top{
+	border-top: 2px solid rgb(221,219,219);
+}
+.border-bottom{
+	border-bottom: 1px solid rgb(221,219,219);
+}
+
+.span{
+	color: #a9a9a9;
+}
+.wh{
+	width: 100%;
+	height: 100%;
+}
+.text-align-right{
+	text-align: right;
+}
+/* ---  menu-top --- */
+.menu-bg{
+	background: rgb(35,67,133) ;
+}
+.menu-top{
+	overflow: auto;
+	height: auto;
+	height: 50px;
+	font-size: 16px;
+}
+.menu-icon{
+	margin-right: 5px;
+}
+.menu-sticky{
+	overflow: auto;
+	height: auto;
+	font-size: 16px;
+}
+.search{
+	position: absolute;
+	height: 50px;
+	line-height: 50px;
+	bottom: 0px;
+	left: 0px;
+	background: rgba(80,80,80,0.4);
+}
+.float-left{
+	float: left;
+}
+.fixed{
+    position: fixed;
+    width: 100%;
+    top: 50px;
+    z-index: 999;
+}
+.background{
+	background: rgba(51,51,51,1);
+}
+.menu-li-hover:hover{
+	background: rgb(15,44,105);
+}
+
+.menu-left{
+	padding: 15px;
+}
+.footer{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	background: black;
+	color: white;
+}
+.footer-border-top{
+	border-top: 4px solid rgb(128,242,142) ;
+}
+.color-red{
+	color: red;
+}
+.wrapper-slider{
+}
+.slider{
+	margin-top: 50px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.circle{
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	border-radius: 50%;
+	background: rgb(1,174,214) ;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 18px;
+}
+.stt{
+	margin-top: 10px;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	border:1px solid black;
+	border-radius: 50%;
+	text-align: center; 
+}
+.wrapper-btn-posts a:hover{
+	margin-right: auto;
+	margin-left: auto;
+}
+.btn-posts{
+	margin-right: auto;
+	margin-left: auto;
+	width: 250px;
+}
+.item-bg{
+	background: rgb(234,236,242);
+}
+.wrapper-item {
+	border-bottom: 1px dotted #666;
+}
+.wrapper-item p{
+	padding: 0;
+	margin: 0;
+}
+.star{
+	color: orange;
+}
+.page{
+	text-align: right;
+}
